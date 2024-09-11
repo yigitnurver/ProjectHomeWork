@@ -1,6 +1,4 @@
-package org.example;
-
-import java.sql.SQLOutput;
+package CodingTaskProject1;
 
 public class CodeTasking4 {
     public static void main(String[] args) {

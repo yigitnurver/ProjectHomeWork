@@ -1,4 +1,4 @@
-package org.example;
+package CodingTaskProject1;
 
 public class CodeTasking8Max {
     public static void main(String[] args) {

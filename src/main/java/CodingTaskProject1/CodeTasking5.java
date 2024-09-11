@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.Scanner;
+package CodingTaskProject1;
 
 public class CodeTasking5 {
     public static void main(String[] args) {
